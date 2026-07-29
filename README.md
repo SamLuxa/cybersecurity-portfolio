@@ -39,3 +39,11 @@ The project focused on analysing login attempts and employee data to identify po
 This project involved developing a Python algorithm to automate the management of an IP address allow list for a restricted network. The algorithm opened and read an allow list file, compared its contents against a list of IP addresses to be removed, and updated the file by removing unauthorised entries.
 
 Further, the project focused on using Python file handling, string processing, and list operations to automate an access control task and maintain an accurate allow list.
+
+# 6 Incident Handler's Journal
+
+## Overview
+
+This project consists of a collection of incident handler's journal entries documenting security incidents, investigations, and incident response activities. Each entry records observations, analysis, actions taken, and lessons learned while working through a range of cybersecurity scenarios.
+
+The journal focuses on maintaining clear and consistent documentation throughout the incident response process.
