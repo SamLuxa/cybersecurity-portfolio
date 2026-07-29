@@ -1,4 +1,6 @@
 # cybersecurity-portfolio
+These projects were completed as part of the Google Cybersecurity Professional Certificate.
+The individual projects will be explained below.
 
 # Vulnerability Assessment Report
 
