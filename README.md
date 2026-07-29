@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+# Projects from: Google Professional Cybersecurity Certificate
 These projects were completed as part of the Google Cybersecurity Professional Certificate.
 The individual projects will be explained below.
 
