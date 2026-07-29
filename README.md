@@ -23,3 +23,19 @@ The report evaluates the security risks facing a fictional organisation by ident
 This project involved the use of Linux command-line tools to examine, and manage file and directory permissions. With the goal of ensuring users had the appropriate level of access whilst preventing unauthorised access.
 
 To this end, the project involved reviewing existing file permissions, identifying authorisation issues, and modifying permissions using Linux commands to align with security best practices. Further, it required using fundamental Linux administration skills to support system security and access control.
+
+# 4 Applying Filters to SQL Queries
+
+## Overview
+
+This project involved investigating potential security issues by querying employee and login attempt data stored in a SQL database. SQL queries using AND, OR, and NOT operators were used to filter records, examine login activity, and retrieve information relevant to the investigation.
+
+The project focused on analysing login attempts and employee data to identify potential security concerns and support a security investigation.
+
+# 5 Updating File using Python Algorithm
+
+## Overview
+
+This project involved developing a Python algorithm to automate the management of an IP address allow list for a restricted network. The algorithm opened and read an allow list file, compared its contents against a list of IP addresses to be removed, and updated the file by removing unauthorised entries.
+
+Further, the project focused on using Python file handling, string processing, and list operations to automate an access control task and maintain an accurate allow list.
